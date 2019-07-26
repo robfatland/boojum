@@ -22,8 +22,6 @@ Supporting each man on the top of the tide
 Just the place for a Snark! I have said it thrice:
    What I tell you three times is true."
 
-</pre>
-
 The crew was complete: it included a Boots—
    A maker of Bonnets and Hoods—
 A Barrister, brought to arrange their disputes—
@@ -742,3 +740,5 @@ He had softly and suddenly vanished away—
    
    
 Source: Poets of the English Language (1950)
+</pre>
+
