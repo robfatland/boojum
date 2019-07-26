@@ -6,23 +6,23 @@ prime ideas that get a little bit complex
 For reference:
 
 <pre>
-> ***The Hunting of the Snark***<br>
-> <br>
-> BY LEWIS CARROLL<br>
-> <br> 
-> *Fit the First*: The Landing<br>
-> <br>
-> "Just the place for a Snark!" the Bellman cried,<br>
->    As he landed his crew with care;<br>
-> Supporting each man on the top of the tide<br>
->    By a finger entwined in his hair.<br>
+***The Hunting of the Snark***
+
+BY LEWIS CARROLL
+
+*Fit the First*: The Landing
+
+"Just the place for a Snark!" the Bellman cried,
+   As he landed his crew with care;
+Supporting each man on the top of the tide
+   By a finger entwined in his hair.
 
 "Just the place for a Snark! I have said it twice:
    That alone should encourage the crew.
 Just the place for a Snark! I have said it thrice:
    What I tell you three times is true."
 
-<\pre>
+</pre>
 
 The crew was complete: it included a Boots—
    A maker of Bonnets and Hoods—
