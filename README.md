@@ -5,6 +5,7 @@ prime ideas that get a little bit complex
 
 For reference:
 
+<pre>
 > ***The Hunting of the Snark***<br>
 > <br>
 > BY LEWIS CARROLL<br>
@@ -20,6 +21,8 @@ For reference:
    That alone should encourage the crew.
 Just the place for a Snark! I have said it thrice:
    What I tell you three times is true."
+
+<\pre>
 
 The crew was complete: it included a Boots—
    A maker of Bonnets and Hoods—
