@@ -1,6 +1,34 @@
 # boojum
-prime ideas that get a little bit complex
 
+...some prime ideas that get a little bit complex, as we stand aside staring uffishly off into the distance
+
+#### Program notes
+
+From an [online video](http://youtube.com): Extensions of the Riemann Zeta function called L-functions are compiled
+in a [database](http://www.lmfdb.org/) with the idea of supporting the community. It seems like there is enough popularized
+exegesis to make a run at this material pretty tractable. Per habit the steps will be written up in Jupyter notebooks.
+
+* Euler found the interesting connection between the harmonic series and primes; with extension to powers (Basel problem)
+* Riemann extended this to the complex plane suggesting non-trivial zeros are found only on the critical line
+* L-function generalization, 20th century, Ramanujan example is very interesting
+
+From Apostol: Elliptic modular functions relate to additive number theory and analogously
+Dirichlet series relate to multiplicative number theory.
+
+From Aigner and Ziegler: There is some sort of origin in Galois theory and finite fields.
+
+Additive set theory concerns adding elements of a set to reach or not reach some number of interest. This comes up in 
+Honsberger's Gems-III in a chapter on Schur's theorem in relation to Ramsey theory. It would be pleasant to 
+recapitulate this proof as a context thread. 
+
+
+#### References
+
+
+Possibly Ash and Gross' *Fearless Symmetry* is a helpful prefatory. 
+
+
+Apostol, Tom M. *Modular functions and Dirichlet series in number theory*. Vol. 41. Springer Science & Business Media, 2012.
 
 
 For reference:
