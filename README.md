@@ -5,14 +5,12 @@ prime ideas that get a little bit complex
 
 For reference:
 
-### The Hunting of the Snark
-
-BY LEWIS CARROLL
-
-#### Fit the First
-
-> The Landing
->
+> ***The Hunting of the Snark***<br>
+> <br>
+> BY LEWIS CARROLL<br>
+> <br> 
+> *Fit the First*: The Landing<br>
+> <br>
 > "Just the place for a Snark!" the Bellman cried,<br>
 >    As he landed his crew with care;<br>
 > Supporting each man on the top of the tide<br>
