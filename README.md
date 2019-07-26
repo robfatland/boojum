@@ -6,7 +6,7 @@ prime ideas that get a little bit complex
 For reference:
 
 <pre>
-***The Hunting of the Snark***
+<large>The Hunting of the Snark</large>
 
 BY LEWIS CARROLL
 
