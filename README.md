@@ -13,10 +13,10 @@ BY LEWIS CARROLL
 
 > The Landing
 >
-> "Just the place for a Snark!" the Bellman cried,
->    As he landed his crew with care;
-> Supporting each man on the top of the tide
->    By a finger entwined in his hair.
+> "Just the place for a Snark!" the Bellman cried,<br>
+>    As he landed his crew with care;<br>
+> Supporting each man on the top of the tide<br>
+>    By a finger entwined in his hair.<br>
 
 "Just the place for a Snark! I have said it twice:
    That alone should encourage the crew.
