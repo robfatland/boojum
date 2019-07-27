@@ -4,7 +4,7 @@
 
 #### Program notes
 
-From an [online video](http://youtube.com): Extensions of the Riemann Zeta function called L-functions are compiled
+From an [online video](https://youtu.be/VTveQ1ndH1c): Extensions of the Riemann Zeta function called L-functions are compiled
 in a [database](http://www.lmfdb.org/) with the idea of supporting the community. It seems like there is enough popularized
 exegesis to make a run at this material pretty tractable. Per habit the steps will be written up in Jupyter notebooks.
 
